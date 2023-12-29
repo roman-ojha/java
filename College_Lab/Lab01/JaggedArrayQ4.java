@@ -14,5 +14,7 @@ public class JaggedArrayQ4 {
             }
             System.out.println("Sum of row " + i + " is: " + sum);
         }
+        System.out.println("Name: Roman Ojha");
+        System.out.println("Roll.NO: 25");
     }
 }
